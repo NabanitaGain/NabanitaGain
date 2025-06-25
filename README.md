@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, my name is Nabanita Gain
+#### Front-End Developer | Crafting Interactive Web Experiences
+![Front-End Developer | Crafting Interactive Web Experiences](https://i.ibb.co/fVBZNbx8/Purple-Modern-Gaming-Youtube-Banner.png)
+
+I created this project as a fun way to enhance my GitHub profile and help others do the same. I enjoy building sleek, accessible, and functional user interfaces. With a strong foundation in web development and a passion for continuous learning, I’m always exploring new ways to bring creativity to code.
+
+Skills: HTML, CSS, JavaScript, React, Node.js, and MongoDB.
+
+- 🔭 I’m currently working on this page. 
 
 
-**NabanitaGain/NabanitaGain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NabanitaGain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/nabanita.roy.5817/)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabanitaGain)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NabanitaGain&show_icons=true&count_private=true)  
+
