@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nabanita Gain
+### Hi there 👋, My name is Nabanita Gain
 #### Front-End Developer | Crafting Interactive Web Experiences
 ![Front-End Developer | Crafting Interactive Web Experiences](https://i.ibb.co/fVBZNbx8/Purple-Modern-Gaming-Youtube-Banner.png)
 
