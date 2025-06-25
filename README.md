@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Nabanita Gain
 ![Front-End Developer | Crafting Interactive Web Experiences](https://i.ibb.co/fVBZNbx8/Purple-Modern-Gaming-Youtube-Banner.png)
 
-I created this project as a fun way to enhance my GitHub profile and help others do the same. I enjoy building sleek, accessible, and functional user interfaces. With a strong foundation in web development and a passion for continuous learning, I’m always exploring new ways to bring creativity to code.
+<p>I created this project as a fun way to enhance my GitHub profile and help others do the same. I enjoy building sleek, accessible, and functional user interfaces. With a strong foundation in web development and a passion for continuous learning, I’m always exploring new ways to bring creativity to code.</p>
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
