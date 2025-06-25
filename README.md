@@ -61,9 +61,6 @@ const nabanita = {
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NabanitaGain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/nabanita.roy.5817/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NabanitaGain&show_icons=true&count_private=true)  
-
 <h3>🌐 Where to Find Me</h3>
 <p align="left">
   <a href="https://github.com/nabanitagain" target="_blank">
@@ -74,5 +71,8 @@ const nabanita = {
   </a>
   <a href="mailto:nabanitagain143@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/nabanita.roy.5817" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
