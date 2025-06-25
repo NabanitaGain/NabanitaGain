@@ -1,8 +1,21 @@
-### Hi there 👋, My name is Nabanita Gain
-![Front-End Developer | Crafting Interactive Web Experiences](https://i.ibb.co/fVBZNbx8/Purple-Modern-Gaming-Youtube-Banner.png)
+### Hi there 👋, I'm Nabanita Gain
+![Banner](https://i.ibb.co/fVBZNbx8/Purple-Modern-Gaming-Youtube-Banner.png)
 
-<p>I created this project as a fun way to enhance my GitHub profile and help others do the same. I enjoy building sleek, accessible, and functional user interfaces. With a strong foundation in web development and a passion for continuous learning, I’m always exploring new ways to bring creativity to code.</p>
-<h3>🛠️ Things I Code With</h3>
+---
+
+I created this project as a fun way to enhance my GitHub profile and help others do the same.  
+I enjoy building sleek, accessible, and functional user interfaces.  
+With a solid foundation in web development and an unending passion for learning, I’m always looking for new ways to bring creativity to code.
+
+---
+
+### 🎓 Education
+- **Diploma in Computer Technology**  
+- **B.Sc. in Computer Science & Engineering (Ongoing)** — *Daffodil International University*
+
+---
+
+### 🛠️ Things I Code With
 <p align="left">
   <!-- Languages -->
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,10 +35,9 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...
 ```javascript
 const nabanita = {
   pronouns: "she" | "her",
@@ -37,8 +49,9 @@ const nabanita = {
     contributor: "Open Source Projects",
     participant: "Frontend Developer Forums"
   },
-  challenge: "Currently exploring advanced React patterns and building projects as part of my Code journey."
+  challenge: "Currently exploring advanced React patterns and building projects as part of my #100DaysOfCode journey."
 }
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
