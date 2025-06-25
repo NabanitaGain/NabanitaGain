@@ -6,17 +6,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const nabanita = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: ["HTML", "CSS", "JavaScript", "React.js", "Node.js", "MongoDB"],
+  tools: ["VS Code", "Git", "GitHub", "Tailwind CSS", "React Router", "Firebase"],
+  architecture: ["component-based", "responsive design", "RESTful APIs"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    learner: "Programming Hero",
+    contributor: "Open Source Projects",
+    participant: "Frontend Developer Forums"
+  },
+  challenge: "Currently exploring advanced React patterns and building projects as part of my Code journey."
 }
 ```
 
