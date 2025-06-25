@@ -2,6 +2,14 @@
 ![Front-End Developer | Crafting Interactive Web Experiences](https://i.ibb.co/fVBZNbx8/Purple-Modern-Gaming-Youtube-Banner.png)
 
 <p>I created this project as a fun way to enhance my GitHub profile and help others do the same. I enjoy building sleek, accessible, and functional user interfaces. With a strong foundation in web development and a passion for continuous learning, I’m always exploring new ways to bring creativity to code.</p>
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
