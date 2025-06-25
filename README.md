@@ -2,7 +2,7 @@
 ![Banner](https://i.ibb.co/wFNvCCVB/Purple-Modern-Gaming-Youtube-Banner-1.png)
 
 ---
-
+🎯 **Frontend Developer | MERN Stack Enthusiast**
 I created this project as a fun way to enhance my GitHub profile and help others do the same.  
 I enjoy building sleek, accessible, and functional user interfaces.  
 With a solid foundation in web development and an unending passion for learning, I’m always looking for new ways to bring creativity to code.
