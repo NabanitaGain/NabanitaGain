@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nabanita Gain
-![Banner](https://i.ibb.co/fVBZNbx8/Purple-Modern-Gaming-Youtube-Banner.png)
+![Banner](https://i.ibb.co/wFNvCCVB/Purple-Modern-Gaming-Youtube-Banner-1.png)
 
 ---
 
