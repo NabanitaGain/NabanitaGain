@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nabanita Gain
 ![Banner](https://i.ibb.co/wFNvCCVB/Purple-Modern-Gaming-Youtube-Banner-1.png)
-
+🎯 **Frontend Developer | MERN Stack Enthusiast**
 ---
 🎯 **Frontend Developer | MERN Stack Enthusiast**
 I created this project as a fun way to enhance my GitHub profile and help others do the same.  
